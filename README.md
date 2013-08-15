@@ -23,3 +23,6 @@ Must be able to share this list
 
 Status Public and Private
 Have groups that can see your private lists (or share private list with individuals)
+
+
+List items can be assigned to multiple list and there should be a master list called "All Items" (similar to an email box). 
